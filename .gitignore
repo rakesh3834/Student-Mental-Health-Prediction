@@ -1,0 +1,6 @@
+# Exclude specific files and directories
+vectorizer.pkl
+myenv/
+CV_BestModel.sav
+final.xlsx
+finalData.xlsx
